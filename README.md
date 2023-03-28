@@ -78,7 +78,7 @@ endmodule ;
 Logic symbol & Truthtable
 ![output](l1.png)
 RTL realization
-![output](o2.png)
+![output](oo1.jpeg)
 Output:
 RTL
 ![output](tr.png)
