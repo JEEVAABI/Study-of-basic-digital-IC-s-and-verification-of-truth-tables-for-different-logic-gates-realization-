@@ -60,8 +60,8 @@ Check all the gates following the same procedure.
 ## Program:
 ```
 Program to verify the truth table in quartus for the basic logic gates using Verilog programming.
-Developed by: PRETHIVEERAJAN P
-RegisterNumber: 212221230079 
+Developed by: JEEVA ABISHSKE
+RegisterNumber: 212221240018 
 ```
 
 ```
